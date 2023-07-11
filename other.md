@@ -2,7 +2,7 @@
 title: Test
 has_children: false
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 
 # Another page
